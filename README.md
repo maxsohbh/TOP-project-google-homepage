@@ -4,8 +4,10 @@ Exercie from The Odin Project to build a mock Google Homepage
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/html-css
 
 
-** Notes
-How to stretch the input to full width: {width: 100%}
+## Notes
+
+How to stretch the input to full width: 
+{width: 100%}
 
 How to add google icons:
 https://fonts.googleapis.com/icon?family=Material+Icons
