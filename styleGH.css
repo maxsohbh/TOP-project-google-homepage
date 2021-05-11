@@ -28,6 +28,7 @@ a:hover {
 
 }
 
+/* space between to push the icons out */
 #search-bar{
     border: 1px solid blue;
     border-radius: 20px;
@@ -41,6 +42,7 @@ width: 100%;
 border-style: none;
 }
 
+/* flex-end to keep it at right side */
 #topnav {
     display: flex;
     flex-direction: row;
@@ -48,12 +50,15 @@ border-style: none;
     align-items: center;
 }
 
+
 .bottom-nav-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     background-color: transparent;
 }
+
+/* for smaller screens */
 @media only screen and (max-width: 800px){
     .bottom-nav-container{
         justify-content: center;
